@@ -2,16 +2,16 @@
 
 
 # ./init.lua
-@1 cannot be repaired with an anvil.=
-@1's anvil=
-A tool for repairing other tools at a blacksmith's anvil.=Stahlhammer um Werkzeuge auf dem Amboss zu reparieren
-A tool for repairing other tools in conjunction with a blacksmith's hammer.=
+@1 cannot be repaired with an anvil.=@1 kann nicht mit einem Amboss repariert werden.
+@1's anvil=@1's Amboss
+A tool for repairing other tools at a blacksmith's anvil.=Stahlhammer um Werkzeuge auf dem Amboss zu reparieren.
+A tool for repairing other tools in conjunction with a blacksmith's hammer.=Ein Werkzeug, um andere Werkzeuge in Verbindung mit einem Stahlhammer zu reparieren.
 Anvil=Amboss
-Right-click on this anvil with a damaged tool to place the damaged tool upon it. You can then repair the damaged tool by striking it with a blacksmith's hammer. Repeated blows may be necessary to fully repair a badly worn tool. To retrieve the tool either punch or right-click the anvil with an empty hand.=
-Steel blacksmithing hammer=
+Right-click on this anvil with a damaged tool to place the damaged tool upon it. You can then repair the damaged tool by striking it with a blacksmith's hammer. Repeated blows may be necessary to fully repair a badly worn tool. To retrieve the tool either punch or right-click the anvil with an empty hand.=Rechtsklicke auf den Amboss mit einem beschaedigten Werkzeug, um das Werkzeug dort zu plazieren. Danach kann das Werkzeug mit einem Stahlhammer repariert werden. Um das Werkzeug zurueck zu bekommen, Rechtsklick auf den Amboss mit leeren Haenden.
+Steel blacksmithing hammer=Stahlhammer
 This anvil is for damaged tools only.=Das Werkstueckfeld gilt nur fuer beschaedigtes Werkzeug.
-Use this hammer to strike blows upon an anvil bearing a damaged tool and you can repair it. It can also be used for smashing stone, but it is not well suited to this task.=
-Your @1 has been repaired successfully.=
+Use this hammer to strike blows upon an anvil bearing a damaged tool and you can repair it. It can also be used for smashing stone, but it is not well suited to this task.=Schlage mit dem Stahlhammer auf einen Amboss, auf dem ein kaputtes Werkzeug liegt, um das Werkzeug zu reparieren. 
+Your @1 has been repaired successfully.=@1 wurde erfolgreich repariert!
 ##### not used anymore #####
 Workpiece:=Werkstueck:
 Optional=Moegliche
